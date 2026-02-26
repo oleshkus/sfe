@@ -1,6 +1,5 @@
 # SFE (Simple File Encryptor)
-- A simple file encryptor with support for various encryption methods and salt hashing, styled like a PDA from the game STALKER.
----
+A simple file encryptor with support for various encryption methods and salt hashing, styled like a PDA from the game STALKER.
 ## About project
 This project is my coursework that I've successfully passed in college.
 It was made using Delphi 12 and one library which I've found somewhere in the Internet.
